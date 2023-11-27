@@ -14,8 +14,8 @@ panic-msp430 = "0.4.0"
 # targeting a different device, you may need to change the version of your
 # crate. Your PAC must be generated with svd2rust version v0.20.0 or later.
 [dependencies.msp430f5529]
-version = "0.4.0"
-features = ["rt", "critical-section"]
+version = "0.2.0"
+features = ["rt"]
 
 
 
