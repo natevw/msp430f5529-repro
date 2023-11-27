@@ -15,7 +15,7 @@ panic-msp430 = "0.4.0"
 # crate. Your PAC must be generated with svd2rust version v0.20.0 or later.
 [dependencies.msp430f5529]
 version = "0.2.0"
-features = ["rt"]
+#features = ["rt"]
 
 
 
